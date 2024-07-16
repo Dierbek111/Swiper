@@ -1,0 +1,15 @@
+.card{
+    border: 2px solid black;
+    /* max-width: 320px;  */
+    padding: 15px;
+    img{
+        width: 100%;
+    }  
+}
+
+
+.wrap{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
